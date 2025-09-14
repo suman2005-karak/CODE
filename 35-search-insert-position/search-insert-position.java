@@ -14,7 +14,7 @@ class Solution {
             }
         }
 
-        // If not found, left will be the insert position
+     
         return left;
     }
 }
